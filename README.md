@@ -130,7 +130,7 @@ I'm continuously learning — building agentic AI systems, RAG pipelines, and mu
 | 🏛️ Teaching Certificate in Higher Education Pedagogy | Harvard Derek Bok Center |
 | 🧪 Applied Agentic AI Program | Interview Kickstart |
 | 🤖 Generative AI Mastermind | Outskill |
-
+| 🏅 AI Engineer 6-Week Sprint | SuperDataScience |
 ---
 
 ## GitHub Stats
