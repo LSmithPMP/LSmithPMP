@@ -125,7 +125,7 @@ I'm continuously learning — building agentic AI systems, RAG pipelines, and mu
 | 🎓 PhD Candidate — Technology / Cybersecurity (4.0 GPA) | Walsh College, Troy MI |
 | 📋 Project Management Professional (PMP) | PMI |
 | ⚡ Agile Certified Practitioner (PMI-ACP) | PMI |
-| ⚙️ Design for Six Sigma Black Belt (DFSS) | — |
+| ⚙️ Design for Six Sigma Black Belt (DFSS) | General Motors |
 | 🤖 AI Product Manager Nanodegree | Udacity |
 | 🏛️ Teaching Certificate in Higher Education Pedagogy | Harvard Derek Bok Center |
 | 🧪 Applied Agentic AI Program | Interview Kickstart |
