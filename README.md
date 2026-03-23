@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Lamonte+Smith+%7C+Senior+SDRE+%40+General+Motors;Doctoral+Candidate+%7C+AI%2FML+%26+Cybersecurity;AV+Security+%7C+OT+%7C+Wireless+Infrastructure;Building+at+the+Intersection+of+AI+%26+Autonomy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Lamonte+Smith+%7C+Senior+SDRE+%40+General+Motors;DBA+%26+PhD+Candidate+%7C+Walsh+College+4.0+GPA;AV+Security+%7C+OT+%7C+Wireless+Infrastructure;Building+at+the+Intersection+of+AI+%26+Autonomy)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,8 +9,8 @@
 
 <div align="center">
 
-**Doctoral Candidate · Walsh College (Troy, MI) · Expected Dec 2027**  
-*Dual Concentration: Artificial Intelligence / Machine Learning & Cybersecurity*
+**Dual Doctoral Candidate · Walsh College (Troy, MI) · Expected Dec 2027**  
+*DBA — AIML Leadership · PhD in Technology — Cybersecurity · GPA: 4.0*
 
 **Senior Software Design Release Engineer · General Motors**  
 *20+ years spanning Automotive · Telecommunications · Information Technology*
@@ -21,11 +21,11 @@
 
 ## About
 
-I research and build at the convergence of **AI/ML**, **cybersecurity**, **operational technology (OT)**, **autonomous vehicle systems**, and **wireless infrastructure (5G/6G/V2X)**. My dissertation — *Designing a Resilience-Oriented Cyber-Secure Machine Learning Framework for Operational Technology in Autonomous Vehicle Systems Enhanced by Advanced Telecommunications Infrastructure* — applies adversarial ML simulation (FGSM/PGD) in CARLA, ROS, SUMO, and OMNeT++ environments to model and defend against cyber threats in AV/OT ecosystems.
+I work at the intersection of **AI/ML**, **cybersecurity**, **operational technology (OT)**, **autonomous vehicle systems**, and **wireless infrastructure (5G/6G/V2X)** — as a practitioner, a student, and a researcher. By day I'm a Senior Software Design Release Engineer at General Motors. In parallel, I'm pursuing dual doctoral degrees at Walsh College — a DBA in AIML Leadership and a PhD in Technology with a Cybersecurity concentration.
 
-Outside research, I engineer agentic AI systems, RAG pipelines, multi-agent orchestration workflows, and deploy production ML applications — treating AI governance and security-by-design as first-class engineering requirements, not afterthoughts.
+My dissertation focuses on designing a resilience-oriented, cyber-secure machine learning framework for OT in autonomous vehicle systems, using adversarial simulation (FGSM/PGD) across CARLA, ROS, SUMO, and OMNeT++ environments.
 
-I also run **[Convergence Intel](https://github.com/LSmithPMP)** — a content channel covering the intersection of AI/ML, cybersecurity, OT, wireless infrastructure, and autonomous vehicle security.
+I'm continuously learning — building agentic AI systems, RAG pipelines, and multi-agent workflows across several programs simultaneously. This repository is a reflection of that ongoing journey, not a finished product.
 
 ---
 
@@ -121,13 +121,15 @@ I also run **[Convergence Intel](https://github.com/LSmithPMP)** — a content c
 
 | Credential | Issuer |
 |-----------|--------|
-| 🎓 Doctoral Candidate — AI/ML & Cybersecurity | Walsh College, Troy MI |
+| 🎓 DBA Candidate — AIML Leadership (4.0 GPA) | Walsh College, Troy MI |
+| 🎓 PhD Candidate — Technology / Cybersecurity (4.0 GPA) | Walsh College, Troy MI |
 | 📋 Project Management Professional (PMP) | PMI |
 | ⚡ Agile Certified Practitioner (PMI-ACP) | PMI |
 | ⚙️ Design for Six Sigma Black Belt (DFSS) | — |
 | 🤖 AI Product Manager Nanodegree | Udacity |
 | 🏛️ Teaching Certificate in Higher Education Pedagogy | Harvard Derek Bok Center |
 | 🧪 Applied Agentic AI Program | Interview Kickstart |
+| 🤖 Generative AI Mastermind | Outskill |
 
 ---
 
@@ -147,7 +149,9 @@ I also run **[Convergence Intel](https://github.com/LSmithPMP)** — a content c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamonte-smith-7518b4248/)[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/LSmithPMP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamonte-smith-7518b4248/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/LSmithPMP)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/lamonte.smith/vizzes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamontesmithpmp@gmail.com)
 
 </div>
@@ -155,5 +159,5 @@ I also run **[Convergence Intel](https://github.com/LSmithPMP)** — a content c
 ---
 
 <div align="center">
-<sub>Doctoral Candidate · Walsh College · Expected December 2027 · AI/ML & Cybersecurity</sub>
+<sub>Dual Doctoral Candidate · DBA (AIML Leadership) + PhD (Cybersecurity) · Walsh College · Expected December 2027</sub>
 </div>
