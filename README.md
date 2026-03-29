@@ -66,8 +66,6 @@ I'm continuously learning — building agentic AI systems, RAG pipelines, and mu
 
 ---
 
-### 🎙️ Voice AI RAG Application
-> End-to-end voice intelligence pipeline: speech-to-text via Whisper, semantic retrieval via Pinecone, LLM response via GPT-4o, and voice synthesis via ElevenLabs — built on a Streamlit interface.
 
 **Stack:** `Python` `Whisper` `Pinecone` `GPT-4o` `ElevenLabs` `Streamlit`
 
