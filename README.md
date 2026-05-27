@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Lamonte+Smith+%7C+Senior+SDRE+%40+General+Motors;DBA+%26+PhD+Candidate+%7C+Walsh+College+4.0+GPA;AV+Security+%7C+OT+%7C+Wireless+Infrastructure;Building+at+the+Intersection+of+AI+%26+Autonomy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Lamonte+Smith+%7C+Senior+SDRE+%40+General+Motors;AV+Security+%7C+OT+%7C+Wireless+Infrastructure;Building+at+the+Intersection+of+AI+%26+Autonomy)](https://git.io/typing-svg)
 
 </div>
 
