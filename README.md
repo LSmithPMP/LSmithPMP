@@ -10,7 +10,7 @@
 <div align="center">
 
 **Dual Doctoral Candidate · Walsh College (Troy, MI) · Expected Dec 2027**  
-*DBA — AIML Leadership · PhD in Technology — Cybersecurity · GPA: 4.0*
+*DBA — AIML Leadership · PhD in Technology — Cybersecurity 
 
 **Senior Software Design Release Engineer · General Motors Advanced Infotainment, Compute & Connectivity · Milford, MI**  
 *20+ years spanning Automotive · Telecommunications · Information Technology*
