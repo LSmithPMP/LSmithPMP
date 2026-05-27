@@ -9,8 +9,6 @@
 
 <div align="center">
 
-**Dual Doctoral Candidate · Walsh College (Troy, MI) · Expected Dec 2027**  
-*DBA — AIML Leadership · PhD in Technology — Cybersecurity 
 
 **Senior Software Design Release Engineer · General Motors Advanced Infotainment, Compute & Connectivity · Milford, MI**  
 *20+ years spanning Automotive · Telecommunications · Information Technology*
@@ -21,9 +19,7 @@
 
 ## About
 
-I work at the intersection of **AI/ML**, **cybersecurity**, **operational technology (OT)**, **autonomous vehicle systems**, and **wireless infrastructure (5G/6G/V2X)** — as a practitioner, a student, and a researcher. By day I am a Senior Software Design Release Engineer at General Motors Advanced Infotainment, Compute & Connectivity in Milford, MI. In parallel, I am pursuing dual doctoral degrees at Walsh College — a DBA in AIML Leadership and a PhD in Technology with a Cybersecurity concentration.
-
-My dissertation focuses on designing a resilience-oriented, cyber-secure machine learning framework for OT in autonomous vehicle systems, using stress-tested simulation (FGSM/PGD) across CARLA, ROS, SUMO, and OMNeT++ environments.
+I work at the intersection of **AI/ML**, **cybersecurity**, **operational technology (OT)**, **autonomous vehicle systems**, and **wireless infrastructure (5G/6G/V2X)**. I am a Senior Software Design Release Engineer at General Motors Advanced Infotainment, Compute & Connectivity in Milford, MI. 
 
 I am continuously learning — building agentic AI systems, RAG pipelines, and multi-agent workflows across several programs simultaneously. This repository is a reflection of that ongoing journey, not a finished product.
 
