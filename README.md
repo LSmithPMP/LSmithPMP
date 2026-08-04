@@ -155,8 +155,8 @@ I am continuously learning — building agentic AI systems, RAG pipelines, and m
 
 | Credential | Issuer |
 |-----------|--------|
-| 🎓 DBA Candidate — AIML Leadership (4.0 GPA) | Walsh College, Troy MI |
-| 🎓 PhD Candidate — Technology / Cybersecurity (4.0 GPA) | Walsh College, Troy MI |
+| 🎓 DBA Candidate — AIML Leadership | Walsh College, Troy MI |
+| 🎓 PhD Candidate — Technology / Cybersecurity | Walsh College, Troy MI |
 | 📋 Project Management Professional (PMP) | PMI |
 | ⚡ Agile Certified Practitioner (PMI-ACP) | PMI |
 | ⚙️ Design for Six Sigma Black Belt (DFSS) | General Motors |
