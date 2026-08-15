@@ -162,6 +162,7 @@ Stack: `Python` `CARLA` `ROS` `SUMO` `OMNeT++` `PyTorch`
 | 🤖 AI Product Manager Nanodegree | Udacity |
 | 🏛️ Teaching Certificate in Higher Education Pedagogy | Harvard Derek Bok Center |
 | 🧪 Applied Agentic AI Program (Capstone 2) | Interview Kickstart |
+| 🧪 Applied Agentic AI Program for Engineering Managers | Interview Kickstart Uplevel |
 | 🤖 Generative AI Mastermind | Outskill |
 | 🏅 AI Engineer 6-Week Sprint | SuperDataScience |
 
